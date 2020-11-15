@@ -2,7 +2,7 @@
 Tasks from AI Mentorship with Indonesia AI. 
 
 List of materials :
-  - Data Vizualization
+  - Data Visualization
   - Supervised Learning
   - Unsupervised Learning
   - Final Projects
