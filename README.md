@@ -5,4 +5,4 @@ List of materials :
   - Data Visualization
   - Supervised Learning
   - Unsupervised Learning
-  - Final Projects
+  - Deep Learning
